@@ -1,3 +1,11 @@
+# Extension-less (executable) files
+*
+
+!*.*
+
+!*/
+
+
 # Prerequisites
 *.d
 
