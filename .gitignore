@@ -5,6 +5,8 @@
 
 !*/
 
+# Ignore vscode environment files
+.vscode/
 
 # Prerequisites
 *.d
